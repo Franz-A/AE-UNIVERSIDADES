@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Centros Culturales"
-    id="id-67983ec7db48426a83cd21f13351508f">
+    id="id-67983ec7db48426a83cd21f13351508f"
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aa9a1cfa399c4c0c9b7109e962c77dcf">
