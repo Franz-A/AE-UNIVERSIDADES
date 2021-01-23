@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Facultades"
-    id="id-d623f6cd61f44d8995026aa094eb6b99">
+    id="id-d623f6cd61f44d8995026aa094eb6b99"
+    viewpoint="organization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d2546abc95064567bc625cc76fb50a1f">
